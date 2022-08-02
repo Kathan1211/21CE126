@@ -1,4 +1,5 @@
-mport java.util.*;
+//This is created by 21ce126 Kathan Shah
+import java.util.*;
 class Main{
     public static void main (String args[]){
         array a = new array();
